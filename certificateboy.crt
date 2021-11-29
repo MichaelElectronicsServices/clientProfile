@@ -1,0 +1,78 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number:
+            a5:53:ee:d2:18:27:4f:2d:1e:82:91:14:7c:ee:29:c4
+        Signature Algorithm: ecdsa-with-SHA512
+        Issuer: CN=certificate auth
+        Validity
+            Not Before: Nov 29 21:20:44 2021 GMT
+            Not After : Nov 13 21:20:44 2024 GMT
+        Subject: C=US, ST=California, L=Fairfield, O=Michael Electronics Services, OU=Remote, CN=laptop/emailAddress=michael.electronics.services@gmail.com
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                RSA Public-Key: (2048 bit)
+                Modulus:
+                    00:bf:eb:13:36:e3:2b:61:0d:e6:2b:41:60:4f:18:
+                    44:ca:95:07:06:9e:ba:34:95:59:5c:19:6d:9e:95:
+                    d4:3b:d8:36:a8:bd:6a:31:af:27:db:e8:58:82:e1:
+                    bc:1a:62:14:cc:b8:83:a8:44:40:fd:0c:25:d1:e7:
+                    60:99:92:47:e3:a4:4c:da:59:75:fa:fd:2a:ec:e7:
+                    c1:f0:f0:08:fe:0f:fd:4b:b7:b4:d2:63:cd:23:5a:
+                    17:16:d4:a3:40:6f:60:e1:f1:05:c8:47:00:09:4a:
+                    51:48:32:f7:57:66:45:3d:f6:4b:d0:6e:ef:fe:a0:
+                    ad:80:e2:cd:13:dd:ee:49:11:d5:e7:7c:fa:4b:6f:
+                    48:29:b1:ff:af:1f:ee:5a:70:4d:7f:c9:5f:c3:7e:
+                    a1:a3:54:69:96:bb:b3:29:ed:d1:3c:2c:b5:7b:13:
+                    56:15:c2:ee:57:7e:30:01:77:5f:6f:a3:93:87:a2:
+                    c9:0a:af:cf:ae:2a:c8:07:8f:0f:e4:e8:3b:d8:28:
+                    5c:af:6b:1b:48:9c:38:d8:ea:df:e6:33:1f:6c:2d:
+                    e4:0b:0f:56:c5:40:34:c4:94:7a:b5:b3:16:ca:9b:
+                    7c:bb:b4:bd:cc:36:c1:41:47:e7:0c:4e:78:79:78:
+                    f5:5b:9f:c6:51:7d:fc:2b:4b:80:c8:5b:50:bd:2a:
+                    0c:d3
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            X509v3 Subject Key Identifier: 
+                32:2A:9C:01:F6:C2:C0:A1:41:B5:CC:34:DA:A6:5E:C4:1D:56:12:4B
+            X509v3 Authority Key Identifier: 
+                keyid:CF:D9:1F:00:88:18:EE:4C:2B:C3:77:EC:0D:EE:D7:34:B6:90:49:E9
+                DirName:/CN=certificate auth
+                serial:59:9F:A5:53:CC:14:18:9A:C5:82:D2:CD:8A:AC:5A:BF:82:0C:76:DF
+
+            X509v3 Extended Key Usage: 
+                TLS Web Server Authentication
+            X509v3 Key Usage: 
+                Digital Signature, Key Encipherment
+            X509v3 Subject Alternative Name: 
+                DNS:laptop
+    Signature Algorithm: ecdsa-with-SHA512
+         30:66:02:31:00:da:35:2e:67:47:01:eb:9b:7a:f7:86:7d:89:
+         72:e8:bd:bd:a6:f7:32:5c:80:12:ed:83:f0:7f:5b:43:02:b8:
+         81:f8:df:09:18:cb:a7:54:82:ef:d7:f9:54:1a:8b:8b:ca:02:
+         31:00:f3:0c:3b:50:b5:4d:6f:5b:12:a5:dd:2b:75:74:34:3c:
+         db:0a:c8:d8:9b:a4:30:9e:2f:45:45:f6:b1:54:d3:b6:52:96:
+         2c:fb:40:76:19:f5:e2:56:59:34:63:63:d3:7f
+-----BEGIN CERTIFICATE-----
+MIIDeDCCAv2gAwIBAgIRAKVT7tIYJ08tHoKRFHzuKcQwCgYIKoZIzj0EAwQwGzEZ
+MBcGA1UEAwwQY2VydGlmaWNhdGUgYXV0aDAeFw0yMTExMjkyMTIwNDRaFw0yNDEx
+MTMyMTIwNDRaMIG2MQswCQYDVQQGEwJVUzETMBEGA1UECAwKQ2FsaWZvcm5pYTES
+MBAGA1UEBwwJRmFpcmZpZWxkMSUwIwYDVQQKDBxNaWNoYWVsIEVsZWN0cm9uaWNz
+IFNlcnZpY2VzMQ8wDQYDVQQLDAZSZW1vdGUxDzANBgNVBAMMBmxhcHRvcDE1MDMG
+CSqGSIb3DQEJARYmbWljaGFlbC5lbGVjdHJvbmljcy5zZXJ2aWNlc0BnbWFpbC5j
+b20wggEiMA0GCSqGSIb3DQEBAQUAA4IBDwAwggEKAoIBAQC/6xM24ythDeYrQWBP
+GETKlQcGnro0lVlcGW2eldQ72DaovWoxryfb6FiC4bwaYhTMuIOoRED9DCXR52CZ
+kkfjpEzaWXX6/Srs58Hw8Aj+D/1Lt7TSY80jWhcW1KNAb2Dh8QXIRwAJSlFIMvdX
+ZkU99kvQbu/+oK2A4s0T3e5JEdXnfPpLb0gpsf+vH+5acE1/yV/DfqGjVGmWu7Mp
+7dE8LLV7E1YVwu5XfjABd19vo5OHoskKr8+uKsgHjw/k6DvYKFyvaxtInDjY6t/m
+Mx9sLeQLD1bFQDTElHq1sxbKm3y7tL3MNsFBR+cMTnh5ePVbn8ZRffwrS4DIW1C9
+KgzTAgMBAAGjgbowgbcwCQYDVR0TBAIwADAdBgNVHQ4EFgQUMiqcAfbCwKFBtcw0
+2qZexB1WEkswVgYDVR0jBE8wTYAUz9kfAIgY7kwrw3fsDe7XNLaQSemhH6QdMBsx
+GTAXBgNVBAMMEGNlcnRpZmljYXRlIGF1dGiCFFmfpVPMFBiaxYLSzYqsWr+CDHbf
+MBMGA1UdJQQMMAoGCCsGAQUFBwMBMAsGA1UdDwQEAwIFoDARBgNVHREECjAIggZs
+YXB0b3AwCgYIKoZIzj0EAwQDaQAwZgIxANo1LmdHAeubeveGfYly6L29pvcyXIAS
+7YPwf1tDAriB+N8JGMunVILv1/lUGouLygIxAPMMO1C1TW9bEqXdK3V0NDzbCsjY
+m6Qwni9FRfaxVNO2UpYs+0B2GfXiVlk0Y2PTfw==
+-----END CERTIFICATE-----
